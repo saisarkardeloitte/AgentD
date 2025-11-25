@@ -1,2 +1,2 @@
 google-generativeai
-crewai
+crewai[google-genai]
